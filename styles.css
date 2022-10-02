@@ -187,7 +187,7 @@
   #gallery h2,
   #contact-us h2,
   #about h2 {
-    font-size: 24px;
+    font-size: 18px;
   }
   
   #leaders > p,
@@ -538,6 +538,9 @@
     background-color: #1b2c33;
     overflow: hidden;
   }
+  #top-footer .quote{
+    color: white;
+  }
   
   #top-footer .widget {
     width: 100%;
@@ -574,8 +577,7 @@
   /* Bottom footer */
   
   #bottom-footer {
-    padding: 32px 16px;
-    background-color: #000;
+    background-color: #1b2c33;
     color: #cdcbcb;
     overflow: hidden;
     text-align: center;
@@ -653,7 +655,7 @@
     /* Top footer */
   
     #top-footer .widget {
-      width: 50%;
+      width: 100%;
     }
   
     #top-footer .widget:nth-child(odd) {
